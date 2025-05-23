@@ -1,5 +1,3 @@
-# Heart-Stroke-Prediction
-
 # Heart Stroke Prediction
 # Overview
 This project aims to predict the likelihood of a stroke based on various health-related factors using machine learning algorithms.
